@@ -50,5 +50,7 @@ namespace MethodsExercise1
 
             Console.WriteLine("Please don't run this program anymore. Not sure if I can go through this again");
         }
+
+
     }
 }
